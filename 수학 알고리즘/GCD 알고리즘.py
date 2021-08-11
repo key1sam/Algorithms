@@ -17,3 +17,4 @@ def GCD(num1, num2) :
             
 GCD(a, b)
 
+
