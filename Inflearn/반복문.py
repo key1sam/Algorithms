@@ -10,7 +10,7 @@ print("1번 정답 출력 완료")
 sum = 0
 for i in range(1, N+1) :
     sum = sum + i
-print(sum, end = ' ')
+print(sum, end = ' ') #end를 통해 print()의 개행을 수정, sep을 통해 변수 두개 이상을 출력할 때 구분 가능
 print("2번 정답 출력 완료")
 
 
